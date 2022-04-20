@@ -15,5 +15,5 @@ P(Ghost_t)=P(Ghost/Color_t)=P(Ghost_t-1)*P(Color/Distance from Ghost).
 P(Ghost_0)= P(Ghost/Color_0)= P(Ghost) the prior probability.   
 User can decide to "bust" a cell if ghost is in the cell; the player wins otherwise he/she looses. 
 
-Link to the Youtube video:
+# Link to the Youtube video:
 https://youtu.be/D6SHn-jlO00
