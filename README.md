@@ -1,5 +1,5 @@
 # Bust-The-Ghost
-In this assignment we had to use Unity to implement/reproduce  "Bust the Ghost"  game.  
+In this assignment my teammate Aicha Belghiti and I had to use Unity to implement/reproduce  "Bust the Ghost"  game.  
 We should Use Unity to create a 8x 20 grid  
 Have the ghost be placed in one of the cells according to a prior distribution of Ghost over location P(Ghost).  
 Use a uniform distribution  to start with.  
